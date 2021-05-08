@@ -21,7 +21,8 @@ Since we are working with three different datasets it is necessary to obtain the
 ## 2. Transforming datasets
 
 In order to work with the aforementioned datasets it is necessary to convert some of them to a format ELECTRA's basic tools can handle.  
-The necessary tools can be found in the Dataset Converter file, which contains slightly changed repository created by Priyanka Sen and Amir Saffari (2020). Follow the guide inside the folder to obtain necessary converted datasets.  
+  
+The necessary tools can be found in the [dataset_converter folder](https://github.com/TheHaymitch/Electra_analysis/tree/main/dataset_converter), which contains slightly changed repository created by Priyanka Sen and Amir Saffari (2020). Follow the guide inside the folder to obtain necessary converted datasets.  
 
  ## 3. Using Electra
  

@@ -24,10 +24,10 @@ In order to work with the aforementioned datasets it is necessary to convert som
   
 The necessary tools can be found in the [dataset_converter folder](https://github.com/TheHaymitch/Electra_analysis/tree/main/dataset_converter), which contains modified repository/code created by Priyanka Sen and Amir Saffari (2020). Follow the guide inside the folder to obtain necessary converted datasets.  
 
- ## 3. Using Electra
- In the [electra folder](https://github.com/TheHaymitch/Electra_analysis/tree/main/electra) you can find detailed guide how to use ELECTRA. This folder contains modified repository/code from the published research by Clark, et al. (2020). Sucessful fine-tuning + evaluation will result in creation of a folder containing necessary files for error analysis. 
+ ## 3. Using ELECTRA
+ In the [electra folder](https://github.com/TheHaymitch/Electra_analysis/tree/main/electra) you can find detailed guide how to use ELECTRA. This folder contains modified repository/code from the published research by Clark, et al. (2020). Sucessful fine-tuning + evaluation will result in creation of a folder containing necessary files for error analysis.  
  
- 
+ ## 4. Error Analysis
  
  
  

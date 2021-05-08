@@ -12,7 +12,7 @@ Since we are working with three different datasets it is necessary to obtain the
   * [Dev set](https://s3.amazonaws.com/my89public/quac/val_v0.2.json)
 
 * NewsQA (Trischler, et al.,2016) - to obtain the original dataset [NewsQA paper](https://arxiv.org/pdf/1611.09830) was built on, it is necessary to follow the provided guide that can be found here:
-  * [NewsQA set](https://s3.amazonaws.com/my89public/quac/train_v0.2.json)
+  * [NewsQA set](https://github.com/Maluuba/newsqa)
  
 * NewsQA - MRQA variant dataset can be obtained here (Fisch, et al.,2019):
   * [Training set](https://s3.us-east-2.amazonaws.com/mrqa/release/v2/train/NewsQA.jsonl.gz)

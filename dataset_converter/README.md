@@ -30,7 +30,7 @@ In the following sections, we guide you through converting  QuAC, and NewsQA int
 Clone this repo and go into the QuAC directory
 
 ```
-cd qa-dataset-converter/quac
+cd Electra_analysis/dataset_converter/quac
 ```
 
 **Step 2**
@@ -57,7 +57,7 @@ This will return two files **quac_train.json** and **quac_dev.json** in the SQuA
 Clone this repo and go into the NewsQA directory
 
 ```
-cd qa-dataset-converter/newsqa
+cd Electra_analysis/dataset_converter/newsqa
 ```
 
 **Step 2**

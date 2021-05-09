@@ -29,7 +29,7 @@ The necessary tools can be found in the [dataset_converter folder](https://githu
  
  ## 4. Analysis of results
  
- After model sucessfully accomplishes finetuning and evaluation it is necessary for the further analysis to change produced files into filetypes that can be analysed more easily. Each dataset has specific folder located in the analysis folder of this repository. It is necessary to change the pre-made paths to ones were your electra produced preds.json and null-ods.json and the original transformed dataset were saved dev.json|train.json. The paths located in the corresponding folders are mirroring the ones if this repository would be cloned, the previous sections would be followed and each of the preds|nullods|dev|train files would have dataset-specific name.  
+ After model sucessfully accomplishes finetuning and evaluation it is necessary for the further analysis to change produced files into filetypes that can be analysed more easily. Each dataset has specific folder located in the [analysis directory](https://github.com/TheHaymitch/Electra_analysis/tree/main/analysis) of this repository. It is necessary to change the pre-made paths to ones were your electra produced preds.json and null-ods.json and the original transformed dataset were saved dev.json | train.json. The paths located in the corresponding folders are mirroring the ones if this repository would be cloned, the previous sections would be followed and each of the preds | nullods | dev | train files would have dataset-specific name.  
  
  
 
@@ -37,7 +37,8 @@ The necessary tools can be found in the [dataset_converter folder](https://githu
  
  
  
-## References
+## References  
+  
 Rajpurkar, P., Jia, R., & Liang, P. (2018). Know what you don't know: Unanswerable questions for SQuAD. arXiv preprint arXiv:1806.03822.
 
 Choi, E., He, H., Iyyer, M., Yatskar, M., Yih, W.t., Choi, Y., Liang, P., & Zettlemoyer, L. (2018). Quac: Question answering in context. arXiv preprint arXiv:1808.07036.  

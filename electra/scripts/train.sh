@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATA_DIR=~/elec/electra-squad-8GB/models/electra_large/
+DATA_DIR=~/Electra_analysis/electra/
 
 python ../run_finetuning.py \
   --data-dir $DATA_DIR \
